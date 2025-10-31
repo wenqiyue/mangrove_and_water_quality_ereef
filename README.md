@@ -35,7 +35,7 @@ Most of the codes were based on or developed from codes provided by our lecturer
     * Extract and visualize time series over selected monitor sites for several water quality variables.
     * Calculate regional average across Great Barrier Reef region.
     * Calculate moving means and lines of best fit. 
-* `calculate_correlation.ipynb`: calculate correlation of time series of different water quality variables.
+* `calculate_correlation.ipynb`: calculate correlation of time series of different water quality variables.  （need output from `analyze_time_series.ipynb`）
 
 **Associated functions**
 * `Mapfct.py`: visualize 2d lon-lat data
