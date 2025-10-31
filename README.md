@@ -11,6 +11,8 @@ We explored datasets provided by eReef's simulation output to investigate change
 that could potentially linked to mangrove damage and recovery at HinchinbrooK Island, Queensland, Australia following Cyclone Yasi at 2011-02-03
 
 ## File description:
+
+### Jupyter Notebooks:
 * explore_2d_data:
 * gen_gif_monthly: 
 * analyze_time_series:
