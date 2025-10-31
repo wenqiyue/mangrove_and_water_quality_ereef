@@ -1,12 +1,14 @@
 # Welcome to our project!
 
-**Project title: Mangrove and Water Quality, eReef**
+**Project title:** *Mangrove and Water Quality, eReef*
 
-**Project overview**: Investigate effect of mangroves on water quality using data from the eReefs project
+**Project overview:** Investigate effect of mangroves on water quality using data from the eReefs project
 
-This project is taken as part of University of Sydney's ENVI 5809 Environmental Sinulation Modelling course, taught by Prof. Tristan Salles
+**Group member**: Ruiqi Luo, Cong Wang, Kexin Yang, Wenqi Yue
 
-Group member: Ruiqi Luo, Cong Wang, Kexin Yang, Wenqi Yue
+This project is taken as part of University of Sydney's ENVI5809 Environmental Sinulation Modelling course, taught by Prof. Tristan Salles
+
+
 
 We explored datasets provided by eReef's simulation output to investigate changes in water quality indicators
 that could potentially linked to mangrove damage and recovery at HinchinbrooK Island, Queensland, Australia following Cyclone Yasi at 2011-02-03
@@ -27,16 +29,16 @@ Most of the codes were based on or developed from codes provided by our lecturer
 ## File description:
 
 **Jupyter Notebooks:**
-* explore_2d_data.ipynb: explore data set, draw 2d (lat-lon) colormesh representing data of variables
-* gen_gif_monthly.ipynb: generate histogram of 2d lat-lon data plot over a time range
-* analyze_time_series.ipynb (main content):
+* `explore_2d_data.ipynb`: explore data set, draw 2d (lat-lon) colormesh representing data of variables
+* `gen_gif_monthly.ipynb`: generate histogram of 2d lat-lon data plot over a time range
+* `analyze_time_series.ipynb` (main content):
     * Extract and visualize time series over selected monitor sites for several water quality variables.
     * Calculate regional average across Great Barrier Reef region.
     * Calculate moving means and lines of best fit. 
-* calculate_correlation.ipynb: calculate correlation of time series of different water quality variables.
+* `calculate_correlation.ipynb`: calculate correlation of time series of different water quality variables.
 
-**associated functions**
-* Mapfct.py: visualize 2d lon-lat data
-* find_line_of_best_fit.py: find line of best fit
-* form_data_strs.py: form date string for extracting several data file
-* show_area_ext.py: show area under study
+**Associated functions**
+* `Mapfct.py`: visualize 2d lon-lat data
+* `find_line_of_best_fit.py`: find line of best fit
+* `form_data_strs.py`: form date string for extracting several data file
+* `show_area_ext.py`: show area under study
