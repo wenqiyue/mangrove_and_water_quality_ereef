@@ -12,3 +12,5 @@ that could potentially linked to mangrove damage and recovery at HinchinbrooK Is
 
 ## File description:
 explore_2d_data: 
+analyze_time_series:
+calculate_correlation
