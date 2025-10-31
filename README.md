@@ -19,8 +19,10 @@ that could potentially linked to mangrove damage and recovery at HinchinbrooK Is
 3. Explore spatial variations of data at different monitoring points around Hinchinbrook Island. Also compare to average values across eReef's study region (area of Great Barrier Reef,  around lon 142E to 157E, lat 7S to 29S)
 
 ## Data source
-We performed analysis on Water quality data extracted from the eReef project simulation output [https://www.ereefs.org.au/]. 
-We used data from the Hydyodynamic model v4 and Biogeochemocal modelat baseline scenario, both at 4km resolution.
+We performed analysis on Water quality data extracted from the eReef project simulation output [https://www.ereefs.org.au/].
+
+We used data from the Hydyodynamic model v4 and Biogeochemocal model at baseline scenario, both at 4km resolution.
+
 Specifically, we extracted data hosted by Australian Instituta of Marine Science (AIMS)'s eReefs THREDDS server [https://thredds.ereefs.aims.gov.au/thredds/catalog/catalog.html]
 
 ## Acknowledgement 
